@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=anuraghazra&
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0h-n0)](https://github.com/0h-n0/github-readme-stats)
 <!--
 **0h-n0/0h-n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
